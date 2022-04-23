@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xianrui Wang
+- 👋 Hi, I’m Xianrui Wang
 - 👀 I’m interested in Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression)
 - 🌱 I’m currently learning DNN assisted source separation 
 - 💞️ I’m looking to collaborate on semi-blind source separation and target speaker extraction

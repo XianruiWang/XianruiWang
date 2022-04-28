@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xianrui Wang
-- 👀 I’m interested in Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). Advisor: Jingdong Chen, Coadvisor: Walter Kellermann
+- 👀 I’m interested in Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). Advisor: Prof. Jingdong Chen, Coadvisor: Prof. Walter Kellermann
 - 🌱 I’m currently learning DNN assisted source separation 
 - 💞️ I’m looking to collaborate on semi-blind source separation and target speaker extraction
 - 📫 How to reach me wangxianrui@mail.nwpu.edu.cn

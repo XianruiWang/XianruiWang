@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on semi-blind source separation and target speaker extraction
 - 📫 How to reach me wangxianrui@mail.nwpu.edu.cn
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 theLittleTiger/theLittleTiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

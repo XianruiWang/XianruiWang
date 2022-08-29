@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on semi-blind source separation and target speaker extraction
 - 📫 How to reach me wangxianrui@mail.nwpu.edu.cn
 
-  [![Xianrui Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLittleTiger&theme=moltack&show_icons=true)](https://github.com/XianruiWang/github-readme-stats)
+  [![Xianrui Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianruiWang&theme=moltack&show_icons=true)](https://github.com/XianruiWang/github-readme-stats)
 
 <!---
 theLittleTiger/theLittleTiger is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.

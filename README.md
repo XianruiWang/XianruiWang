@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xianrui Wang
 - 👀 I’m interested in Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). 
-- ✨ Advisor: Prof. Jingdong Chen, Coadvisor: Prof. Shoji Makino, Prof. Walter Kellermann.
+- ✨ Advisor: Prof. Shoji Makino, Prof. Walter Kellermann.
 - ✨ I'm also working closely with Prof. Jacob Benesty, Prof. Israel Cohen, Dr. Gongping Huang, Dr. Andreas Brendel. 
 - 🌱 I’m currently learning DNN assisted source separation 
 - 💞️ I’m looking to collaborate on semi-blind source separation and target speaker extraction

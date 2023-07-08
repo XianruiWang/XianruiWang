@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xianrui Wang
-- 👀 I’m interested in Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). 
+- 👀 I’m interested in Stand up comedy and Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). 
 - ✨ Advisor: Prof. Shoji Makino, Prof. Walter Kellermann.
 - ✨ I'm also working closely with Prof. Jacob Benesty, Prof. Israel Cohen, Dr. Gongping Huang, Dr. Andreas Brendel. 
 - 🌱 I’m currently learning DNN assisted source separation 

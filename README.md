@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Xianrui Wang. I received my PhD from Northwestern Polytechnical University in June 2025, under the supervision of Prof. Jingdong Chen. Between March 2023 and March 2025, I was also a Research Fellow at Waseda IPS, where I worked with Prof. Shoji Makino. 
+- 👋 Hi, I'm Xianrui Wang. I received my PhD from Northwestern Polytechnical University in June 2025, under the supervision of Prof. Jingdong Chen. Between March 2023 and March 2025, I was also a Research Fellow at Waseda IPS, where I worked with Prof. Shoji Makino.  I joined Huawei as a Topmind in August 2025.
 - 👀 I’m interested in Stand up comedy and Audio signal processing (Blind source separation, Dereverberation, Beamforming, Source localization & Noise supression). 
 - ✨ I'm also working closely with Prof. Jacob Benesty, Prof. Israel Cohen, Prof. Gongping Huang, Prof. Walter Kellermann, and Dr. Andreas Brendel. 
 - 🌱 I’m currently learning DNN assisted source separation 
